@@ -1,5 +1,11 @@
 # Docker Compose Microservices Demo
 
+**Stack skills:** `Docker · Nginx · Python · Linux · Git`
+
+> Full portfolio stack: Linux · Docker · Kubernetes · Jenkins · GitLab CI · Ansible · Terraform · Prometheus · Grafana · Zabbix · Nginx · Git · Python · Bash · PowerShell
+>
+> Hub: https://github.com/qwertqaze102-prog/devops-portfolio-hub
+
 Mini multi-service architecture:
 - `api` — Python HTTP API
 - `worker` — background job consumer (queue via redis)
